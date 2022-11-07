@@ -1,1 +1,3 @@
-
+#TextBlob is a python library and offers a simple API to access its methods and perform basic NLP tasks. 
+#A good thing about TextBlob is that they are just like python strings. 
+#So, you can transform and play with it same like we did in python.
